@@ -457,7 +457,7 @@ letter-spacing: 1px;
 position: relative;
 font-weight: 400;
 text-align: center;
-padding: 1.2rem 2rem 1.1rem;
+padding: 1.2rem 2rem;
 pointer-events: none;
 -webkit-font-smoothing: antialiased;
 }
