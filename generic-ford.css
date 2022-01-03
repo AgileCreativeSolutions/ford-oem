@@ -1,9 +1,12 @@
-/* Font */
+/* Icons 2 */
+@import url("https://cdn.iconmonstr.com/1.3.0/css/iconmonstr-iconic-font.min.css");
+
+/* Ford Antenna */
 @font-face {
-font-family: "ford-antenna";
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.eot');
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.eot?#iefix') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.woff') format('woff'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.ttf') format('truetype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.svg#fordngbs-antenna-re') format('svg');
-font-weight: 400;
+font-family: "ford-antenna-extra-light";
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.eot');
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.eot?#iefix') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.woff') format('woff'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.ttf') format('truetype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.svg#fordngbs-antenna-extra-light') format('svg');
+font-weight: 200;
 font-style: normal
 }
 
@@ -16,10 +19,10 @@ font-style: normal
 }
 
 @font-face {
-font-family: "ford-antenna-extra-light";
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.eot');
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.eot?#iefix') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.woff') format('woff'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.ttf') format('truetype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.svg#fordngbs-antenna-extra-light') format('svg');
-font-weight: 200;
+font-family: "ford-antenna";
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.eot');
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.eot?#iefix') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.woff') format('woff'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.ttf') format('truetype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaRegular/regular.svg#fordngbs-antenna-re') format('svg');
+font-weight: 400;
 font-style: normal
 }
 
@@ -30,12 +33,13 @@ src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/Antenn
 font-weight: 700;
 font-style: normal
 }
-
+/* Ford Antenna */
+/* Ford Antenna Condensed */
 @font-face {
-font-family: "ford-antenna-cond-bold";
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondBold/cond-bold.eot');
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondBold/cond-bold.eot?#iefix') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondBold/cond-bold.woff') format('woff');
-font-weight: 700;
+font-family: "ford-antenna-cond-light";
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.eot');
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.eot?') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.woff') format('woff'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.ttf') format('truetype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.svg#fordngbs-antenna-cond-light') format('svg');
+font-weight: 300;
 font-style: normal
 }
 
@@ -51,21 +55,23 @@ font-style: normal
 font-family: "ford-antenna-cond-medium";
 src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondMedium/antenna-cond-medium.eot');
 src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondMedium/antenna-cond-medium.eot?') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondMedium/antenna-cond-medium.woff2') format('woff2'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondMedium/antenna-cond-medium.woff') format('woff'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondMedium/antenna-cond-medium.ttf') format('truetype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondMedium/antenna-cond-medium.svg#fordngbs-antenna-cond-medium') format('svg');
-font-weight: 400;
+font-weight: 500;
 font-style: normal
 }
 
 @font-face {
-font-family: "ford-antenna-cond-light";
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.eot');
-src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.eot?') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.woff') format('woff'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.ttf') format('truetype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondLight/antenna-cond-light.svg#fordngbs-antenna-cond-light') format('svg');
-font-weight: 400;
+font-family: "ford-antenna-cond-bold";
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondBold/cond-bold.eot');
+src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondBold/cond-bold.eot?#iefix') format('embedded-opentype'), url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaCondBold/cond-bold.woff') format('woff');
+font-weight: 700;
 font-style: normal
 }
+/* Ford Antenna Condensed */
+
 
 .acs-h1, .acs-h2, .acs-h3, .acs-h4, .acs-h5, .acs-h6 {
-font-family: "ford-antenna-bold", sans-serif;
-font-weight: 700;
+font-family: "ford-antenna", sans-serif;
+font-weight: 400;
 line-height: 1.2;
 }
 
@@ -130,6 +136,36 @@ font-family: var(--bold-font);
 font-weight: 700;
 }
 
+.fa-brand-xl {
+font-family: "ford-antenna-extra-light";  
+font-weight: 200;
+}
+
+.fa-brand-lt {
+font-family: "ford-antenna-light";  
+font-weight: 300;
+}
+
+.fa-brand-cond-lt {
+font-family: "ford-antenna-cond-light"; 
+font-weight: 300;
+}
+
+.fa-brand-cond {
+font-family: "ford-antenna-cond-regular";
+font-weight: 400;
+}
+
+.fa-brand-cond-md {
+font-family: "ford-antenna-cond-medium";
+font-weight: 500;
+}
+
+.fa-brand-cond-bd {
+font-family: "ford-antenna-cond-bold";
+font-weight: 700;
+}
+
 
 /* Variables */
 .acs-wrapper {
@@ -140,12 +176,15 @@ font-weight: 700;
 --accent5: #102B4E;
 --accent6: #3296CD;
 --accent7: #2776B3;
+--accent8: #00095B;
+--accent9: #000aec;
 --black: #000000; 
 --white: #ffffff; 
 --gray: #F3F3F3;
 --gray2: #F7F7F7;
 --gray3: #FAFAFA;
 --gray4: #F6F6F6;
+--gray5: #f0f0f0;
 --dark: #333333;
 --dark2: #252525;
 --dark3: #4D4D4D;
@@ -172,6 +211,9 @@ color: var(--gray3)
 }
 .acs-gray4 {
 color: var(--gray4)
+}
+.acs-gray5 {
+color: var(--gray5)
 }
 .acs-dark {
 color: var(--dark)
@@ -206,6 +248,12 @@ color: var(--accent6)
 .acs-accent7 {
 color: var(--accent7)
 }
+.acs-accent8 {
+color: var(--accent8)
+}
+.acs-accent9 {
+color: var(--accent9)
+}
 
 
 
@@ -231,11 +279,11 @@ background-color: var(--accent6)
 .acs-bg-accent7 {
 background-color: var(--accent7)
 }
-.acs-bg-black {
-background-color: var(--black)
+.acs-bg-accent8 {
+background-color: var(--accent8)
 }
-.acs-bg-white {
-background-color: var(--white)
+.acs-bg-accent9 {
+background-color: var(--accent9)
 }
 .acs-bg-gray {
 background-color: var(--gray)
@@ -248,6 +296,9 @@ background-color: var(--gray3)
 }
 .acs-bg-gray4 {
 background-color: var(--gray4)
+}
+.acs-bg-gray5 {
+background-color: var(--gray5)
 }
 .acs-bg-dark {
 background-color: var(--dark)
@@ -279,6 +330,33 @@ transition: all 0.2s ease-in-out 0s;
 .acs-link-accent2:hover {
 color: var(--accent)
 }
+.acs-link-accent3 {
+text-decoration: none;
+color: var(--accent8);
+transition: all 0.2s ease-in-out 0s;
+}
+.acs-link-accent3:hover {
+color: var(--accent9)
+}
+.acs-link-accent4 {
+text-decoration: none;
+color: var(--white);
+transition: all 0.2s ease-in-out 0s;
+}
+.acs-link-accent4:hover {
+color: var(--gray5)
+}
+.acs-link-accent3 i, .acs-link-accent4 i {
+position: relative;
+display: inline-flex;
+width: 22px;
+height: 14px;
+font-size: 80%;
+margin-left: 0;
+margin-top: -2px;
+}
+
+
 
 
 /* BUTTONS: START */
@@ -368,5 +446,107 @@ transition: all 0.2s ease-in-out 0s;
 background-color: var(--white);
 color: var(--accent5);
 border: solid 1px var(--accent5)
+}
+
+/* Button 5 & 6 */
+.acs-cta-text {
+font-family: "ford-antenna-cond-regular", arial, helvetica,sans-serif;
+font-size: 18px;
+line-height: 18px;
+letter-spacing: 1px;
+position: relative;
+font-weight: 400;
+text-align: center;
+padding: 1.2rem 2rem 1.1rem;
+pointer-events: none;
+-webkit-font-smoothing: antialiased;
+}
+
+.acs-button5, .acs-button6 {
+display: inline-flex;
+align-items: center;
+text-decoration: none;
+background: 0;
+border: 1px solid transparent;
+padding: 0;
+position: relative;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+top: 0;
+left: 0;
+box-shadow: none;
+border-radius: 2rem;
+width: auto;
+min-height: 44px;
+max-height: 44px
+}
+
+.acs-button5 span {
+color: var(--white)  
+}
+
+.acs-button6 span {
+color: var(--accent8)  
+}
+
+.acs-button5:before {
+background-color: var(--accent8);
+border: 1px solid var(--accent8);
+}
+
+.acs-button6:before {
+background-color: var(--white);
+border: 1px solid var(--white);
+}
+
+.acs-button5:before, .acs-button6:before {
+box-shadow: 0 2px 4px 2px rgb(0 0 0 / 14%);
+}
+
+.acs-button5:before, .acs-button6:before{
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+will-change: auto;
+transition: transform .3s ease-in-out, background-color .3s ease-in-out, box-shadow .3s ease-in-out, border-color .3s ease-in-out;
+border-radius: 2rem;
+}
+
+.acs-button5:hover, .acs-button6:hover {
+background-color: transparent;
+border-color: transparent;
+border: 0
+}
+
+.acs-button5:hover:not(.disabled):before {
+background-color: var(--accent9);
+border: solid 1px var(--accent9);
+-webkit-transform: scale(1.07);
+-moz-transform: scale(1.07);
+-ms-transform: scale(1.07);
+-o-transform: scale(1.07);
+transform: scale(1.07);
+box-shadow: 0 7px 6px 0 rgba(0, 0, 0, 0.3);
+}
+
+.acs-button6:hover:not(.disabled):before {
+background-color: var(--gray5);
+border: solid 1px var(--gray5);
+-webkit-transform: scale(1.07);
+-moz-transform: scale(1.07);
+-ms-transform: scale(1.07);
+-o-transform: scale(1.07);
+transform: scale(1.07);
+box-shadow: 0 7px 6px 0 rgba(0, 0, 0, 0.3);
+}
+
+.acs-button5:before, .acs-button6:before {
+border-radius: 2rem;
+}
+
+.acs-button5.btn-sm .acs-cta-text, .acs-button6.btn-sm .acs-cta-text {
+padding: .4rem 3rem
 }
 /* BUTTONS: END */
