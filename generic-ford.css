@@ -466,7 +466,7 @@ pointer-events: none;
 display: inline-flex;
 align-items: center;
 justify-content: center;
-text-decoration: none;
+text-decoration: none !important;
 background: 0;
 border: 1px solid transparent;
 padding: 0;
