@@ -465,6 +465,7 @@ pointer-events: none;
 .acs-button5, .acs-button6 {
 display: inline-flex;
 align-items: center;
+justify-content: center;
 text-decoration: none;
 background: 0;
 border: 1px solid transparent;
