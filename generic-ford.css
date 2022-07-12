@@ -1,7 +1,10 @@
-/* Icons 2 */
+/* Ford Icons */
 @import url("https://cdn.iconmonstr.com/1.3.0/css/iconmonstr-iconic-font.min.css");
+/* Ford Icons */
 
-/* Ford Antenna */
+
+
+/* OEM Font Embed */
 @font-face {
 font-family: "ford-antenna-extra-light";
 src: url('https://www.ford.com/cmslibs/etc/designs/common/skin/ford/fonts/AntennaExtraLight/extraLight.eot');
@@ -67,8 +70,19 @@ font-weight: 700;
 font-style: normal
 }
 /* Ford Antenna Condensed */
+/* OEM Font Embed */
 
 
+
+/* OEM Font */
+.acs-wrapper { 
+font-family: "ford-antenna", sans-serif
+}
+/* OEM Font */
+
+
+
+/* Heading Tags */
 .acs-h1, .acs-h2, .acs-h3, .acs-h4, .acs-h5, .acs-h6 {
 font-family: "ford-antenna", sans-serif;
 font-weight: 400;
@@ -125,17 +139,11 @@ font-size: 1.4rem !important;
 font-size: 1.2rem !important;
 }
 }
+/* Heading Tags */
 
 
-.acs-wrapper { 
-font-family: "ford-antenna", sans-serif
-}
 
-.acs-bold {
-font-family: var(--bold-font);   
-font-weight: 700;
-}
-
+/* OEM Font Variables */
 .fa-brand-xl {
 font-family: "ford-antenna-extra-light";  
 font-weight: 200;
@@ -166,6 +174,13 @@ font-family: "ford-antenna-cond-bold";
 font-weight: 700;
 }
 
+.acs-bold {
+font-family: var(--bold-font);   
+font-weight: 700;
+}
+/* OEM Font Variables */
+
+
 
 /* Variables */
 .acs-wrapper {
@@ -190,6 +205,7 @@ font-weight: 700;
 --dark3: #4D4D4D;
 --bold-font: "ford-antenna-bold", sans-serif;
 }
+/* Variables */
 
 
 
@@ -224,6 +240,8 @@ color: var(--dark2)
 .acs-dark3 {
 color: var(--dark3)
 }
+/* Text Colors */
+
 
 
 /* Accent Colors */
@@ -254,62 +272,97 @@ color: var(--accent8)
 .acs-accent9 {
 color: var(--accent9)
 }
+/* Accent Colors */
 
 
 
 /* BG Colors */
 .acs-bg-accent {
-background-color: var(--accent)
+--acs-bg-opacity: 1;
+background-color: var(--accent);
+background-color: rgba(39,118,179, var(--acs-bg-opacity))
 }
 .acs-bg-accent2 {
-background-color: var(--accent2)
+--acs-bg-opacity: 1;
+background-color: var(--accent2);
+background-color: rgba(9,41,70, var(--acs-bg-opacity))
 }
 .acs-bg-accent3 {
-background-color: var(--accent3)
+--acs-bg-opacity: 1;
+background-color: var(--accent3);
+background-color: rgba(55,159,225, var(--acs-bg-opacity))
 }
 .acs-bg-accent4 {
-background-color: var(--accent4)
+--acs-bg-opacity: 1;
+background-color: var(--accent4);
+background-color: rgba(10,38,67, var(--acs-bg-opacity))
 }
 .acs-bg-accent5 {
-background-color: var(--accent5)
+--acs-bg-opacity: 1;
+background-color: var(--accent5);
+background-color: rgba(16,43,78, var(--acs-bg-opacity))
 }
 .acs-bg-accent6 {
-background-color: var(--accent6)
+--acs-bg-opacity: 1;
+background-color: var(--accent6);
+background-color: rgba(50,150,205, var(--acs-bg-opacity))
 }
 .acs-bg-accent7 {
-background-color: var(--accent7)
+--acs-bg-opacity: 1;
+background-color: var(--accent7);
+background-color: rgba(39,118,179, var(--acs-bg-opacity))
 }
 .acs-bg-accent8 {
-background-color: var(--accent8)
+--acs-bg-opacity: 1;
+background-color: var(--accent8);
+background-color: rgba(6,9,91, var(--acs-bg-opacity))
 }
 .acs-bg-accent9 {
-background-color: var(--accent9)
+--acs-bg-opacity: 1;
+background-color: var(--accent9);
+background-color: rgba(29,10,236, var(--acs-bg-opacity))
 }
 .acs-bg-gray {
-background-color: var(--gray)
+--acs-bg-opacity: 1;
+background-color: var(--gray);
+background-color: rgba(243,243,243, var(--acs-bg-opacity))
 }
 .acs-bg-gray2 {
-background-color: var(--gray2)
+--acs-bg-opacity: 1;
+background-color: var(--gray2);
+background-color: rgba(247,247,247, var(--acs-bg-opacity))
 }
 .acs-bg-gray3 {
-background-color: var(--gray3)
+--acs-bg-opacity: 1;
+background-color: var(--gray3);
+background-color: rgba(250,250,250, var(--acs-bg-opacity))
 }
 .acs-bg-gray4 {
-background-color: var(--gray4)
+--acs-bg-opacity: 1;
+background-color: var(--gray4);
+background-color: rgba(246,246,246, var(--acs-bg-opacity))
 }
 .acs-bg-gray5 {
-background-color: var(--gray5)
+--acs-bg-opacity: 1;
+background-color: var(--gray5);
+background-color: rgba(240,240,240, var(--acs-bg-opacity))
 }
 .acs-bg-dark {
-background-color: var(--dark)
+--acs-bg-opacity: 1;
+background-color: var(--dark);
+background-color: rgba(51,51,51, var(--acs-bg-opacity))
 }
 .acs-bg-dark2 {
-background-color: var(--dark2)
+--acs-bg-opacity: 1;
+background-color: var(--dark2);
+background-color: rgba(37,37,37, var(--acs-bg-opacity))
 }
 .acs-bg-dark3 {
-background-color: var(--dark3)
+--acs-bg-opacity: 1;
+background-color: var(--dark3);
+background-color: rgba(77,77,77, var(--acs-bg-opacity))
 }
-
+/* BG Colors */
 
 
 
@@ -355,7 +408,7 @@ font-size: 80%;
 margin-left: 0;
 margin-top: -2px;
 }
-
+/* Link Accent */
 
 
 
