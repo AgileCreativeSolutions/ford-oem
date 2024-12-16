@@ -148,6 +148,7 @@ font-weight: 700;
 --accent9: #000aec;
 --accent10: #2668D0;
 --accent11: #003ab0;
+--accent12: #06095B;
 --black: #000000; 
 --white: #ffffff; 
 --gray: #F3F3F3;
@@ -233,6 +234,9 @@ color: var(--accent10)
 .acs-accent11 {
 color: var(--accent11)
 }
+.acs-accent12 {
+color: var(--accent12)
+}
 /* Accent Colors */
 
 
@@ -292,6 +296,11 @@ background-color: rgba(38,104,208, var(--acs-bg-opacity))
 --acs-bg-opacity: 1;
 background-color: var(--accent11);
 background-color: rgba(0,58,176, var(--acs-bg-opacity))
+}
+.acs-bg-accent12 {
+--acs-bg-opacity: 1;
+background-color: var(--accent12);
+background-color: rgba(6,9,91, var(--acs-bg-opacity))
 }
 .acs-bg-gray {
 --acs-bg-opacity: 1;
