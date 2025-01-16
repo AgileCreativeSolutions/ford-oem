@@ -136,7 +136,7 @@ font-weight: 700;
 
 
 /* Variables */
-.acs-wrapper {
+.acs-wrapper, .acs-oem-wrapper {
 --accent: #0276B3;
 --accent2: #092946;
 --accent3: #009fe1;
