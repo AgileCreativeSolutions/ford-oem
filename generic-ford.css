@@ -38,7 +38,7 @@ font-style: normal
 
 
 /* OEM Font */
-.acs-wrapper, .acs-oem-wrapper { 
+.acs-wrapper, .acs-oem-brand { 
 font-family: "ford-f1-regular", sans-serif;
 }
 /* OEM Font */
@@ -136,7 +136,7 @@ font-weight: 700;
 
 
 /* Variables */
-.acs-wrapper, .acs-oem-wrapper {
+.acs-wrapper, .acs-oem-brand {
 --accent: #0276B3;
 --accent2: #092946;
 --accent3: #009fe1;
